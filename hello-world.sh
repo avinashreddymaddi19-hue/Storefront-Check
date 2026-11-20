@@ -2,5 +2,5 @@
 
 echo "================================"
 echo "Storefront Application"
-echo "build executed successfully!"
+echo "Updated build executed successfully!"
 echo "================================"
